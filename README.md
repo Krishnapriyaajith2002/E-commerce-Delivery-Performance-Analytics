@@ -21,7 +21,7 @@ Power BI | SQL | Excel
 
 ### 📂 Files Included
 - Dashboard PBIX file
-- Dataset (CSV)
+- Dataset 
 - Screenshots
 - Documentation
 
