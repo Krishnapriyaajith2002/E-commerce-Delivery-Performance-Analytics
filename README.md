@@ -25,9 +25,8 @@ Power BI | SQL | Excel
 - Screenshots
 - Documentation
 
-### 🖥 Dashboard Preview
-*(Insert images here)*
+
 
 ### 🔗 LinkedIn Post
-(You can paste your LinkedIn link later)
+https://www.linkedin.com/in/krishnapriyaajith002/
 
